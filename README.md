@@ -58,6 +58,8 @@ Use attention to focus on the most relevant frames or features in the video.
 3D CNNs + LSTMs:
 
 Use 3D CNNs (which process both spatial and temporal information) as the feature extractor before passing features to LSTMs.
+
+"C:\Users\midhu\Downloads\Telegram Desktop\0_yK1m4ChJNy7BTGhB.png"
 6. Applications
 Surveillance: Detecting abnormal behavior or specific activities in security footage.
 Sports Analytics: Analyzing player movements or game actions for coaching and strategy.
